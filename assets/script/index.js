@@ -1,0 +1,6 @@
+'use strict';
+
+/*
+  Web Page
+*/
+
